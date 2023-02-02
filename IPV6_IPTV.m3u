@@ -127,9 +127,9 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227160/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227209/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227216/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海峡卫视 高清
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227198/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="北京",厦门卫视 高清
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视",厦门卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227059/index.m3u8
@@ -137,41 +137,41 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227059/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227156/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227197/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建综合 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建综合 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227149/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建新闻 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建新闻 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建经济 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建经济 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227184/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建少儿 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建少儿 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227194/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建旅游 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建旅游 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227190/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建公共 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建公共 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227153/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建文体 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建文体 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227188/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建教育 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建教育 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227202/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",福建电视剧 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",福建电视剧 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227079/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宁德新闻综合 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",宁德新闻综合 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227196/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",龙岩综合 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",龙岩综合 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227200/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",厦门-1 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门-1 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227185/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",厦门-2 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门-2 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226777/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",厦门-3 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",厦门-3 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226760/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南平-1 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南平-1 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227066/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南平-2 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南平-2 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226956/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",乐游 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",乐游 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227083/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",陶瓷 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",陶瓷 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227234/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实人文 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225946/index.m3u8
@@ -181,29 +181,29 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226937/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227018/index.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227028/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓电影 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓电影 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225891/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",黑莓动画 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",黑莓动画 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226564/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫秀场 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227071/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227091/index.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227145/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",都市剧场 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227204/index.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227075/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",极速汽车 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",极速汽车 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227186/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",哒啵赛事 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",哒啵赛事 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226676/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",哒啵电竞 高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",哒啵电竞 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227252/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4KUHD 4K超高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",4KUHD 4K超高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建漳州移动IPV6",BesTV LIVE-4M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
@@ -441,7 +441,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227250/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="福建漳州移动IPV6",海南卫视HD-7M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建漳州移动IPV6",海峡卫视HD-8M
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="福建漳州移动IPV6",海峡卫视HD-8M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="福建漳州移动IPV6",河北卫视HD-8M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1
@@ -2413,9 +2413,9 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227160/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227209/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/海南卫视" group-title="卫视",海南卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227216/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",海峡卫视 高清
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227198/index.m3u8
-#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/厦门卫视" group-title="北京",厦门卫视 高清
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/厦门卫视" group-title="卫视",厦门卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/东方卫视" group-title="卫视",东方卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227059/index.m3u8
@@ -2553,7 +2553,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225838/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225872/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="福建电信ipv6",海南卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225855/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建电信ipv6",海峡卫视
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="福建电信ipv6",海峡卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="福建电信ipv6",河北卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
