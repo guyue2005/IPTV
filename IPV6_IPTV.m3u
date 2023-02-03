@@ -131,9 +131,9 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227216/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227198/index.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 高清
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongfang.png" group-title="卫视",东方卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227059/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视 高清
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://n.ysyz.top:99/buyaolian/dongnan.png" group-title="卫视",东南卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227156/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227197/index.m3u8
