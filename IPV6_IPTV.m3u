@@ -266,8 +266,6 @@ https://live.v1.mk/api/ghyx.php?id=AiJiaGouWuHD_6000
 https://live.v1.mk/api/ghyx.php?id=DongManXiuChangHD_6000
 #EXTINF:-1,tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云
 https://live.v1.mk/api/ghyx.php?id=YouXiFengYunHD_6000
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/央广购物.png" group-title="其他",央广购物 标清
-https://live.v1.mk/api/ghyx.php?id=YangShiGouWuHD_2000
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/聚鲨环球精选.png" group-title="其他",聚鲨环球精选
 https://live.v1.mk/api/ghyx.php?id=GHSHD_6000
 #EXTINF:-1,tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",足球频道
