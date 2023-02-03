@@ -680,8 +680,6 @@ http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建移动IPV6",BesTV超级体育-4M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226895/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建移动IPV6",CCTV1HD-1.5M
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225812/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建移动IPV6",CCTV1HD-4M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="福建移动IPV6",CCTV1HD-5M
@@ -2813,3 +2811,89 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227169/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226987/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="福建电信ipv6",重庆卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+
+
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-name="HBO Asia" tvg-logo="https://upload.112114.xyz/logo/HBO.png" group-title="新加坡",HBO
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941648
+#EXTINF:-1 tvg-id="HBOHitsAsia.sg" tvg-name="HBO Hits Asia" tvg-logo="https://upload.112114.xyz/logo/HBO%20Hits.png" group-title="新加坡",HBO Hits
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941647
+#EXTINF:-1 tvg-id="HBOFamilyAsia.sg" tvg-name="HBO Family Asia" tvg-logo="https://upload.112114.xyz/logo/HBO%20Family.png" group-title="新加坡",HBO Family Asia
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941646
+#EXTINF:-1 tvg-id="HBOSignatureAsia.sg" tvg-name="HBO Signature Asia"  tvg-logo="https://upload.112114.xyz/logo/HBO%20Signature.png" group-title="新加坡",HBO Signature
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941645
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-name="Cinemax Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="新加坡",Cinemax
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941659
+#EXTINF:-1 tvg-id="StarChineseMovies.hk" tvg-name="Star Chinese Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="新加坡",卫视电影台
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941625
+#EXTINF:-1 tvg-id="StarChineseChannel.hk" tvg-name="Star Chinese Channel" tvg-logo="https://upload.112114.xyz/logo/STARCHINESE.png" group-title="新加坡",卫视中文台
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941624
+#EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-name="Celestial Movies" tvg-logo="https://iptv-pro.github.io/logo/tianying.png" group-title="新加坡",天映电影
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941618
+#EXTINF:-1 tvg-id="CCM.hk" tvg-name="CCM" tvg-logo="https://iptv-pro.github.io/logo/tianyingjd.png" group-title="新加坡",天映经典
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941639
+#EXTINF:-1 tvg-id="HubECity.sg" tvg-name="Hub E City" tvg-logo="https://i.imgur.com/UscuzZm.png" group-title="新加坡",HUB都会
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941632
+#EXTINF:-1 tvg-id="HubVVDrama.sg" tvg-name="Hub VV Drama" tvg-logo="https://i.imgur.com/7iYCNKa.png" group-title="新加坡",HUB娱家
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941634
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="https://i.imgur.com/9NKp5aV.png" group-title="新加坡",Channel 5
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&stream=941615&extension=ts
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="新加坡",Channel 8
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&stream=941616&extension=ts
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" tvg-logo="https://i.imgur.com/9MzEjoY.png" group-title="新加坡",Channel U
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&stream=941617&extension=ts
+#EXTINF:-1 tvg-id="NationalGeographicSingapore.sg" tvg-name="National Geographic Singapore" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="新加坡",国家地理频道
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941665
+#EXTINF:-1 tvg-id="NationalGeographicWildSingapore.sg" tvg-name="National Geographic Wild Singapore" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="新加坡",国家地理野生频道
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941664
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-name="BBC Earth Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="新加坡",BBCEarth
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941667
+#EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" tvg-name="BBC Lifestyle Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="新加坡",BBCLifestyle
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941668
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-name="History Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="新加坡",History
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941661
+#EXTINF:-1 tvg-id="AXNSingapore.sg" tvg-name="AXN Singapore" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="新加坡",AXN
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941660
+#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-name="Warner TV Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="新加坡",WarnerTV
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941652
+#EXTINF:-1 tvg-id="CrimePlusInvestigationAsia.sg" tvg-name="Crime + Investigation Asia" tvg-logo="https://upload.112114.xyz/logo/Crime%20%26%20Investigation.png" group-title="新加坡",CI
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941666
+#EXTINF:-1 tvg-id="LifetimeAsia.us" tvg-name="Lifetime Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="新加坡",Lifetime
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941669
+#EXTINF:-1 tvg-id="ParamountNetworkSingapore.sg" tvg-name="Paramount Network Singapore" tvg-logo="https://www.paramount.com/themes/custom/viacom/viacom.png" group-title="新加坡",Paramount Network
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941654
+#EXTINF:-1 tvg-id="ROCKEntertainment.sg" tvg-name="ROCK Entertainment" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="新加坡",ROCK ENTERTAINMENT
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941643
+#EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="新加坡",TravelXP
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941662
+#EXTINF:-1 tvg-id="HITS.sg" tvg-name="HITS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HITS.png" group-title="新加坡",HITS
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941578
+#EXTINF:-1 tvg-id="HITSMovies.sg" tvg-name="HITS Movies" tvg-logo="https://upload.112114.xyz/logo/Hits.png" group-title="新加坡",HITS MOVIES
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941577
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-name="CinemaWorld" tvg-logo="https://upload.112114.xyz/logo/CINEMAWORLD.png" group-title="新加坡",CINEMAWORLD
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941658
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="新加坡",Animax
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941676
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-name="Nickelodeon Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="新加坡",Nickelodeon
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941671
+#EXTINF:-1 tvg-id="NickJrAsia.sg" tvg-name="Nick Jr Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="新加坡",NickJr.
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941670
+#EXTINF:-1 tvg-id="CBeebiesAsia.uk" tvg-name="CBeebies Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="新加坡",CBeebies
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941672
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="新加坡",CN卡通频道
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941673
+#EXTINF:-1 tvg-id="BoomerangAsia.sg" tvg-name="Boomerang Asia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="新加坡",Boomerang
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941674
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-name="DreamWorks Channel Asia" tvg-logo="https://iptv-pro.github.io/logo/DREAMWORKS.png" group-title="新加坡",Dreamworks
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941656
+#EXTINF:-1 tvg-id="nowJelli.hk" tvg-name="now Jelli" tvg-logo="https://iptv-pro.github.io/logo/NowJelli.png" group-title="新加坡",NOW紫金国际台
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941630
+#EXTINF:-1 tvg-id="GEM.sg" tvg-name="GEM" tvg-logo="https://upload.112114.xyz/logo/GEM.png" group-title="新加坡",GEM
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941608
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://upload.112114.xyz/logo/KBS%20World.png" group-title="新加坡",KBS World
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941604
+#EXTINF:-1 tvg-id="OneTVAsia.sg" tvg-name="One TV Asia" tvg-logo="https://upload.112114.xyz/logo/ONE.png" group-title="新加坡",ONE	
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941628
+#EXTINF:-1 tvg-id="tvNAsia.hk" tvg-name="tvN Asia" tvg-logo="https://upload.112114.xyz/logo/TVN.png" group-title="新加坡",tvN
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941623
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="https://upload.112114.xyz/logo/Arirang%20TV.png" group-title="新加坡",arirang Korea
+http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941614
