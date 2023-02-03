@@ -151,7 +151,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="4K/8K-IPV6",纯享4K
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
 
-##EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
 https://live.v1.mk/api/ghyx.php?id=CCTV1HD_6000
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2
 https://live.v1.mk/api/ghyx.php?id=CCTV2HD_6000
