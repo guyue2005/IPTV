@@ -442,6 +442,9 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226676/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227252/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/cx4k.png" group-title="地方IPV6",4KUHD 4K超高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226825/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://n.ysyz.top:99/buyaolian/bestv.jpg" group-title="福建移动IPV6",BesTV LIVE-4M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226568/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="福建移动IPV6",BesTV超级体育-4M
@@ -801,43 +804,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227193/index.m3u
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225831/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="福建移动IPV6",重庆卫视HD-7M
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K电影
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K电影
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K电影
+
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="海南移动IPV6",CCTV1
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
@@ -1675,6 +1642,44 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000235/ind
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000088/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",综艺
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000235/index.m3u8?IAS
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K电影
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K电影
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南移动IPV6",4K电影
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="江西移动IPV6",纯享4K 20M2160
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
