@@ -346,8 +346,6 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227182/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227240/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视IPV6",北京卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227246/index.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京IPV6",冬奥纪实 高清
-http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视IPV6",天津卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227205/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视IPV6",深圳卫视 高清
@@ -364,7 +362,7 @@ http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227198/index.m3
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视IPV6",东方卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227059/index.m3u8
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.pngg" group-title="卫视IPV6",东南卫视 高清
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视IPV6",东南卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227156/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视IPV6",黑龙江卫视 高清
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227197/index.m3u8
@@ -585,8 +583,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="卫视IPV6",海峡卫视
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京IPV6",纪实科教
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225675/2/index.m3u8
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京IPV6",冬奥纪实
+http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:-1 tvg-id="1873" tvg-name="BRTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京IPV6",北京文艺
 http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="BRTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京IPV6",北京影视
@@ -638,7 +636,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 tvg-id="6590" tvg-name="国学频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="数字IPV6",国学频道
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="数字IPV6",卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="数字IPV6",卡酷少儿
 http://[2409:8087:5011:1020::2b]/180000001002/00000001000000000090000000215608/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="数字IPV6",纪实人文
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225655/index.m3u8
